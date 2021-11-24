@@ -1,0 +1,8 @@
+[0m2021.11.17 00:40:22 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\HKPC\Desktop\blog-server' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.17 00:40:27 INFO  time: initialize in 5.33s[0m
+[0m2021.11.17 00:40:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.17 00:40:30 WARN  no build tool detected in workspace 'C:\Users\HKPC\Desktop\blog-server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.23 00:12:04 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\HKPC\Desktop\blog-server' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.23 00:12:10 INFO  time: initialize in 6.27s[0m
+[0m2021.11.23 00:12:17 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.23 00:12:18 WARN  no build tool detected in workspace 'C:\Users\HKPC\Desktop\blog-server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

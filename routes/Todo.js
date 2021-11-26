@@ -59,7 +59,7 @@ router.get('/items/:id', async function(req, res, next) {
  });
 router.patch('/update/:id' , async function(req,res){
 
-  const TodoA= await Todo.findOne().where('_id').equals(mongoose.Types.ObjectId(req.payload.id.trim())).exec()
+  const TodoA= await Todo.findOne().where('author').equals(mongoose.Types.ObjectId(req.payload.id.trim())).exec()
    if(req.body.DateCompleted){
      TodoA.DateCompleted=req.body.DateCompleted
    }
